@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eefofopah.hisun.tk/sitemap.xml
